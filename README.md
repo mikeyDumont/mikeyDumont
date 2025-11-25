@@ -1,7 +1,7 @@
 # Michael Dumont
 ### Operations Manager | Process Automation & Web Developer
 
-Hello! 👋 I'm a General Manager with over 8 years of experience in the fast-paced property management industry, where I discovered my passion for solving operational challenges with technology.
+Hello! 👋 I'm a General Manager for Broken Bow Vacation Cabins with over 8 years of experience in the fast-paced property management industry, where I discovered my passion for solving operational challenges with technology.
 
 I specialize in identifying process bottlenecks and building practical, data-driven web applications from the ground up. I taught myself to code to create tools that automate manual tasks, improve team communication, and enhance the customer experience—solutions that became essential to my company's daily operations. My unique background allows me to bridge the gap between real-world business needs and effective technical solutions.
 
